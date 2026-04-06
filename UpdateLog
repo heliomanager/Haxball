@@ -3,3 +3,5 @@ VERSION = 0.7
 - added keybinds now for the GK dive
 - also added vibration macro 
 - added OP tab
+- added room logger
+- fixed lines not removing when you close the menu
