@@ -1,4 +1,4 @@
-VERSION = 0.7
+VERSION = 0.9
 
 - added keybinds now for the GK dive
 - also added vibration macro 
