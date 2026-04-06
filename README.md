@@ -1,1 +1,1 @@
-Join up to know how to use the script : https://discord.gg/6y2CNRK84s
+Go to https://helioclient.great-site.net/faq.php and https://helioclient.great-site.net/privacy.php
