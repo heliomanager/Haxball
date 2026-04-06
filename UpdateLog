@@ -1,3 +1,5 @@
 VERSION = 0.2
 
 - made SoftAim better by adding an aim blocker so you know when you can shoot
+- added an updates tab for logs
+- added an version checker so you will always have latest version
