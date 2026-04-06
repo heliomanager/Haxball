@@ -6,3 +6,4 @@ VERSION = 0.5
 - added a client checking since yall cant seem to get it right no offence
 - added multiple lines to be drawn 
 - added GOAL line detection so if the ball is constantly missing with the aimbot then you can chnage that area it detects 
+- added where the mods stay enabled even when swtiching tab
