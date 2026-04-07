@@ -1,9 +1,4 @@
-VERSION = 0.9
+VERSION = 1.0
 
-- added keybinds now for the GK dive
-- also added vibration macro 
-- added OP tab
-- added room logger broken
-- fixed lines not removing when you close the menu
-- fixed attack and defence lines not working
-- added a new menu UI
+- Out of beta now whoo hoooo
+- Added multiple enemy lines 
