@@ -5,3 +5,5 @@ VERSION = 0.9
 - added OP tab
 - added room logger broken
 - fixed lines not removing when you close the menu
+- fixed attack and defence lines not working
+- added a new menu UI
