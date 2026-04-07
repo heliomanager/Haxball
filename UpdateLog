@@ -2,3 +2,5 @@ VERSION = 1.0
 
 - Out of beta now whoo hoooo
 - Added multiple enemy lines 
+- fixed goal line being weird
+- added keybind for aimbot
